@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a245df4_aaf7af8b",
+        "filename": "template.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000128
+      },
+      "writtenOn": "2015-06-24T03:09:18Z",
+      "side": 1,
+      "message": "Add: \"Include technical reasons, workflow reasons, historical reasons, decisions from specific groups, or is it a technical advancement.\"",
+      "range": {
+        "startLine": 11,
+        "startChar": 26,
+        "endLine": 11,
+        "endChar": 52
+      },
+      "revId": "0ac4de8e5579a43a6b1eaafa8212f2951a956adf",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a245df4_eaf1a796",
+        "filename": "template.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1000128
+      },
+      "writtenOn": "2015-06-24T03:09:18Z",
+      "side": 1,
+      "message": "\"Description of Drivers\"\nPSC or WPCG might gain access to these.  Not all drivers are problems, some are opportunities.  ;)",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 42,
+        "endChar": 19
+      },
+      "revId": "0ac4de8e5579a43a6b1eaafa8212f2951a956adf",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a245df4_2a2bbfec",
+        "filename": "template.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1000128
+      },
+      "writtenOn": "2015-06-24T03:09:18Z",
+      "side": 1,
+      "message": "For things like Neutron, Murano, and maybe Trove, defining key success criteria is useful, I think.  Perhaps not always useful, I guess.  Perhaps we could suggest...\n\"If appropriate, list key success criteria for the activity. This will aid in any UAT or control group assessment.\"",
+      "range": {
+        "startLine": 51,
+        "startChar": 0,
+        "endLine": 51,
+        "endChar": 33
+      },
+      "revId": "0ac4de8e5579a43a6b1eaafa8212f2951a956adf",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a245df4_4a5f1373",
+        "filename": "template.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 151,
+      "author": {
+        "id": 1000128
+      },
+      "writtenOn": "2015-06-24T03:09:18Z",
+      "side": 1,
+      "message": "If this is just core services documentation, then I think there\u0027s the need for something else here, which I\u0027ll call \"Change Management\" that covers post implementation.  This might include tasks for nodes, user support (user docs?), documentation, and likely coordinated by our operations manager or perhaps our user support manager.  Suggest new section with text...\n\"Change management is the approach to transitioning individuals (eg. operators or users), teams (eg. allocations group, user support) and organizations (eg. nodes, unis, VLs) to a desired future state, post implementation.  Technical Advisory or Core Service might propose expected change management tasks or goals post-implementation, which can be later planned by the operations manager or user support manager with appropriate parties.\"",
+      "range": {
+        "startLine": 151,
+        "startChar": 0,
+        "endLine": 151,
+        "endChar": 20
+      },
+      "revId": "0ac4de8e5579a43a6b1eaafa8212f2951a956adf",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
