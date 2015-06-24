@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a245df4_0a099b95",
+        "filename": "core-hours-quota.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2015-06-24T02:20:19Z",
+      "side": 1,
+      "message": "Copied from old review Blair:\n\nI think we should still have cores, instances and (unhide) ram quota, the core hours just become another dimension. You can think of the core hours as the main quota with \"limits\" on number of concurrent cores, instances, etc. All other clouds do it that way and it makes sense for capacity planning. E.g., we probably couldn\u0027t approve an allocation asking for only 2000 core hours, but wanting them all at the same time (2000 cores for an hour).",
+      "range": {
+        "startLine": 39,
+        "startChar": 0,
+        "endLine": 40,
+        "endChar": 84
+      },
+      "revId": "e9594e702b8b4519c6499c9a11ad529459f00832",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
