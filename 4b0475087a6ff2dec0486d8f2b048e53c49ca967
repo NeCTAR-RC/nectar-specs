@@ -1,0 +1,136 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a245df4_1355421d",
+        "filename": "pre-crams.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000128
+      },
+      "writtenOn": "2015-08-13T01:07:07Z",
+      "side": 1,
+      "message": "Nodes and the NeCTAR Directorate",
+      "range": {
+        "startLine": 25,
+        "startChar": 13,
+        "endLine": 25,
+        "endChar": 18
+      },
+      "revId": "4b0475087a6ff2dec0486d8f2b048e53c49ca967",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a245df4_73311e0b",
+        "filename": "pre-crams.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1000128
+      },
+      "writtenOn": "2015-08-13T01:07:07Z",
+      "side": 1,
+      "message": "Nodes and the NeCTAR Directorate",
+      "range": {
+        "startLine": 52,
+        "startChar": 10,
+        "endLine": 52,
+        "endChar": 15
+      },
+      "revId": "4b0475087a6ff2dec0486d8f2b048e53c49ca967",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a245df4_d321eab5",
+        "filename": "pre-crams.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1000128
+      },
+      "writtenOn": "2015-08-13T01:07:07Z",
+      "side": 1,
+      "message": "\"Easier to complete\" isn\u0027t a bad goal, but improved understanding is towards more consistent and accurate completion.",
+      "range": {
+        "startLine": 70,
+        "startChar": 54,
+        "endLine": 70,
+        "endChar": 72
+      },
+      "revId": "4b0475087a6ff2dec0486d8f2b048e53c49ca967",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a245df4_132c22ab",
+        "filename": "pre-crams.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 1000128
+      },
+      "writtenOn": "2015-08-13T01:07:07Z",
+      "side": 1,
+      "message": "\"Nodes and NeCTAR Directorate\"\nSearch and replace.  We need to capture information about outcomes/impact and collaborative use and scale, to better argue for NCRIS funding (NeCTAR DIrectorate role), and definitely to help nodes better argue for their co-investment (Node role).",
+      "range": {
+        "startLine": 73,
+        "startChar": 42,
+        "endLine": 73,
+        "endChar": 47
+      },
+      "revId": "4b0475087a6ff2dec0486d8f2b048e53c49ca967",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a245df4_33068621",
+        "filename": "pre-crams.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 232,
+      "author": {
+        "id": 1000128
+      },
+      "writtenOn": "2015-08-13T01:07:07Z",
+      "side": 1,
+      "message": "Insert:\n\"Allocations committee, control group and directorate requirements were collected using a google doc.\nhttps://docs.google.com/document/d/1CXFnxewMzdGPu3aXRkFLkmJZ7mTqn7zbEKaGJleMJWc/edit\nThis contains further background on requested changes and in some cases recommended names and help text.\"\n\nI just saw that the reference link is below.  But worth mentioning this document here.",
+      "revId": "4b0475087a6ff2dec0486d8f2b048e53c49ca967",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a245df4_ae096d2e",
+        "filename": "pre-crams.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 257,
+      "author": {
+        "id": 1000128
+      },
+      "writtenOn": "2015-08-13T01:07:07Z",
+      "side": 1,
+      "message": "Not really what was intended for this section, it\u0027s about ensuring it\u0027s someone\u0027s job to *manage* the uptake of the change, or any organisational change, or any changes in practice/process that go with it.  Of course, this may not always be needed.\nSebastian will communicate the changes to the current Allocations Committee... this is good.  Perhaps Nick G will monitor that the committee follows any practice/process changes and support the allocations committee in that. ?",
+      "range": {
+        "startLine": 256,
+        "startChar": 0,
+        "endLine": 257,
+        "endChar": 19
+      },
+      "revId": "4b0475087a6ff2dec0486d8f2b048e53c49ca967",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
