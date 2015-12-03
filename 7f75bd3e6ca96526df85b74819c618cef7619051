@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_ad116aae",
+        "filename": "dashboard-motd.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2015-12-03T05:47:09Z",
+      "side": 1,
+      "message": "It would be great to see a mockup of what this\nshould look like.",
+      "revId": "7f75bd3e6ca96526df85b74819c618cef7619051",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
