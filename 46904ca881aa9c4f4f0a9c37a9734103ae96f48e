@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bad4c104_38c4af3f",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-03-02T05:20:20Z",
+      "side": 1,
+      "message": "The names really should be more descriptive - you\u0027re proposing a lot more than just locking and unlocking instances.",
+      "range": {
+        "startLine": 55,
+        "startChar": 1,
+        "endLine": 58,
+        "endChar": 40
+      },
+      "revId": "46904ca881aa9c4f4f0a9c37a9734103ae96f48e",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
