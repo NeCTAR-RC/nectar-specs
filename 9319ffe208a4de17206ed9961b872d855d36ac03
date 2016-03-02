@@ -42,6 +42,48 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_183c4b2f",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-03-02T05:34:23Z",
+      "side": 1,
+      "message": "Agreed",
+      "parentUuid": "bad4c104_78dd5714",
+      "range": {
+        "startLine": 34,
+        "startChar": 1,
+        "endLine": 35,
+        "endChar": 57
+      },
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_d83ae335",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-03-02T05:34:23Z",
+      "side": 1,
+      "message": "Will hopefully be able to handle this in the API",
+      "parentUuid": "bad4c104_58aa5371",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_b8827ffe",
         "filename": "hivemind-security.rst",
         "patchSetId": 4
@@ -59,6 +101,24 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_5846d3c0",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-03-02T05:34:23Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "bad4c104_b8827ffe",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_988dbb34",
         "filename": "hivemind-security.rst",
         "patchSetId": 4
@@ -70,6 +130,24 @@
       "writtenOn": "2016-03-02T05:10:26Z",
       "side": 1,
       "message": "Will any replies the user(s) send to this email go into the FD ticket?\nIt might be worth checking  to see if this can be done via the FD API to make this happen.",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_98177ba3",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-03-02T05:34:23Z",
+      "side": 1,
+      "message": "I\u0027m hoping that all the users will be added to the ticket via the API, and all correspondence is via email through FD",
+      "parentUuid": "bad4c104_988dbb34",
       "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
       "unresolved": false
@@ -99,6 +177,30 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_b80c3f96",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-03-02T05:34:23Z",
+      "side": 1,
+      "message": "Agreed",
+      "parentUuid": "bad4c104_58c1732d",
+      "range": {
+        "startLine": 55,
+        "startChar": 1,
+        "endLine": 59,
+        "endChar": 29
+      },
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_b8b0bfde",
         "filename": "hivemind-security.rst",
         "patchSetId": 4
@@ -116,6 +218,24 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_d81103ae",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-03-02T05:34:23Z",
+      "side": 1,
+      "message": "Good point.",
+      "parentUuid": "bad4c104_b8b0bfde",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_78b637de",
         "filename": "hivemind-security.rst",
         "patchSetId": 4
@@ -127,6 +247,24 @@
       "writtenOn": "2016-03-02T05:10:26Z",
       "side": 1,
       "message": "...and any nectar security policy.",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_f825e70a",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-03-02T05:34:23Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "bad4c104_78b637de",
       "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
       "unresolved": false
