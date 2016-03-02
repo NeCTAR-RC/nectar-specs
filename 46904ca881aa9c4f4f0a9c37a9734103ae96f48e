@@ -2,6 +2,52 @@
   "comments": [
     {
       "key": {
+        "uuid": "bad4c104_f86c0739",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1000082
+      },
+      "writtenOn": "2016-03-02T06:11:46Z",
+      "side": 1,
+      "message": "I would like to see this separated out into a separate command, e.g., \"hivemind show\", that will do the query and summary of pertinent instance info that you want at-a-glance when dealing with such issues (identifiers, user and project info and contacts, IP/s, security-group info). That would be useful on its own and could then be used here too.",
+      "range": {
+        "startLine": 57,
+        "startChar": 17,
+        "endLine": 57,
+        "endChar": 35
+      },
+      "revId": "46904ca881aa9c4f4f0a9c37a9734103ae96f48e",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_38774f04",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1000082
+      },
+      "writtenOn": "2016-03-02T06:11:46Z",
+      "side": 1,
+      "message": "You probably want to pause before locking :-)",
+      "range": {
+        "startLine": 57,
+        "startChar": 11,
+        "endLine": 57,
+        "endChar": 15
+      },
+      "revId": "46904ca881aa9c4f4f0a9c37a9734103ae96f48e",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_38c4af3f",
         "filename": "hivemind-security.rst",
         "patchSetId": 3
@@ -18,6 +64,29 @@
         "startChar": 1,
         "endLine": 58,
         "endChar": 40
+      },
+      "revId": "46904ca881aa9c4f4f0a9c37a9734103ae96f48e",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_186a8b1a",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1000082
+      },
+      "writtenOn": "2016-03-02T06:11:46Z",
+      "side": 1,
+      "message": "As above, don\u0027t think this is specific to security.",
+      "range": {
+        "startLine": 60,
+        "startChar": 5,
+        "endLine": 60,
+        "endChar": 36
       },
       "revId": "46904ca881aa9c4f4f0a9c37a9734103ae96f48e",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
