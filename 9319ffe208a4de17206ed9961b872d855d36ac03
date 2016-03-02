@@ -84,6 +84,24 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_7863971a",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2016-03-02T23:00:31Z",
+      "side": 1,
+      "message": "Maybe an all in one command and then separate commands for each step. I think the all in one command is good, lets make it as easy and automated as possible to deal with these",
+      "parentUuid": "bad4c104_d83ae335",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_b8827ffe",
         "filename": "hivemind-security.rst",
         "patchSetId": 4
@@ -113,6 +131,24 @@
       "side": 1,
       "message": "+1",
       "parentUuid": "bad4c104_b8827ffe",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_58a7b34f",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2016-03-02T23:00:31Z",
+      "side": 1,
+      "message": "It should go to the tenant managers of the project and the user id of the instance too (the user who booted it)",
+      "parentUuid": "bad4c104_5846d3c0",
       "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
       "unresolved": false
