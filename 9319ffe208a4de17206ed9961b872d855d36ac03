@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bad4c104_58aa5371",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-03-02T05:10:26Z",
+      "side": 1,
+      "message": "It would be good if all tickets created by this could have a tag.",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_b8827ffe",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-03-02T05:10:26Z",
+      "side": 1,
+      "message": "What about if there are multiple users associated with the tenancy?\nI\u0027d suggest notifying them all.",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_988dbb34",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-03-02T05:10:26Z",
+      "side": 1,
+      "message": "Will any replies the user(s) send to this email go into the FD ticket?\nIt might be worth checking  to see if this can be done via the FD API to make this happen.",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_b8b0bfde",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-03-02T05:10:26Z",
+      "side": 1,
+      "message": "s/Unknown/Should improve the handling of compromised instances.",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_78b637de",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-03-02T05:10:26Z",
+      "side": 1,
+      "message": "...and any nectar security policy.",
+      "revId": "9319ffe208a4de17206ed9961b872d855d36ac03",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
