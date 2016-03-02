@@ -48,6 +48,54 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_18ffeb35",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-03-02T22:17:04Z",
+      "side": 1,
+      "message": "Next draft will split this out into separate commands",
+      "parentUuid": "bad4c104_38774f04",
+      "range": {
+        "startLine": 57,
+        "startChar": 11,
+        "endLine": 57,
+        "endChar": 15
+      },
+      "revId": "46904ca881aa9c4f4f0a9c37a9734103ae96f48e",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_f801673a",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-03-02T22:17:04Z",
+      "side": 1,
+      "message": "That\u0027s the intention of the instance_info command. But I agree with you and Simon that this should be split up into separate comamnds",
+      "parentUuid": "bad4c104_f86c0739",
+      "range": {
+        "startLine": 57,
+        "startChar": 17,
+        "endLine": 57,
+        "endChar": 35
+      },
+      "revId": "46904ca881aa9c4f4f0a9c37a9734103ae96f48e",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_38c4af3f",
         "filename": "hivemind-security.rst",
         "patchSetId": 3
@@ -82,6 +130,30 @@
       "writtenOn": "2016-03-02T06:11:46Z",
       "side": 1,
       "message": "As above, don\u0027t think this is specific to security.",
+      "range": {
+        "startLine": 60,
+        "startChar": 5,
+        "endLine": 60,
+        "endChar": 36
+      },
+      "revId": "46904ca881aa9c4f4f0a9c37a9734103ae96f48e",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_38fcaf3e",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-03-02T22:17:04Z",
+      "side": 1,
+      "message": "true, but it needs to go under some extension name, and the focus will be on security",
+      "parentUuid": "bad4c104_186a8b1a",
       "range": {
         "startLine": 60,
         "startChar": 5,
