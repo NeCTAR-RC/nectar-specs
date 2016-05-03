@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bad4c104_f2ca49a0",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-05-03T23:56:56Z",
+      "side": 1,
+      "message": "Should also add a support person/group to the ticket, or something similar - otherwise the new ticket may sit untouched for some time.",
+      "range": {
+        "startLine": 68,
+        "startChar": 61,
+        "endLine": 69,
+        "endChar": 43
+      },
+      "revId": "2716359eb9354268c9be3c82f09c895890b45b12",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_324bd12c",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-05-03T23:56:56Z",
+      "side": 1,
+      "message": "There should be a way to continue the \"big red button\" process for this instance, updating the newly created ticket.",
+      "range": {
+        "startLine": 74,
+        "startChar": 6,
+        "endLine": 75,
+        "endChar": 28
+      },
+      "revId": "2716359eb9354268c9be3c82f09c895890b45b12",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_725559c5",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-05-03T23:56:56Z",
+      "side": 1,
+      "message": "This should also include any existing security tickets for the instance.",
+      "range": {
+        "startLine": 78,
+        "startChar": 6,
+        "endLine": 78,
+        "endChar": 54
+      },
+      "revId": "2716359eb9354268c9be3c82f09c895890b45b12",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_5248552d",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-05-03T23:56:56Z",
+      "side": 1,
+      "message": "Do we also need a shelve/snapshot/archive and delete instance option? That would remove the instance but still allow for forensics and similar.",
+      "range": {
+        "startLine": 82,
+        "startChar": 0,
+        "endLine": 83,
+        "endChar": 47
+      },
+      "revId": "2716359eb9354268c9be3c82f09c895890b45b12",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
