@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_e87c1c75",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-09T05:30:57Z",
+      "side": 1,
+      "message": "Will consult with DHD/Nick later on for exact details of how the ticket should be created",
+      "parentUuid": "bad4c104_f2ca49a0",
+      "range": {
+        "startLine": 68,
+        "startChar": 61,
+        "endLine": 69,
+        "endChar": 43
+      },
+      "revId": "2716359eb9354268c9be3c82f09c895890b45b12",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_324bd12c",
         "filename": "hivemind-security.rst",
         "patchSetId": 5
@@ -36,6 +60,30 @@
       "writtenOn": "2016-05-03T23:56:56Z",
       "side": 1,
       "message": "There should be a way to continue the \"big red button\" process for this instance, updating the newly created ticket.",
+      "range": {
+        "startLine": 74,
+        "startChar": 6,
+        "endLine": 75,
+        "endChar": 28
+      },
+      "revId": "2716359eb9354268c9be3c82f09c895890b45b12",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_c8875860",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-09T05:30:57Z",
+      "side": 1,
+      "message": "I don\u0027t want this thing to be too complicated, but maybe we could look at this for v2",
+      "parentUuid": "bad4c104_324bd12c",
       "range": {
         "startLine": 74,
         "startChar": 6,
@@ -71,6 +119,30 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_88b6303c",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-09T05:30:57Z",
+      "side": 1,
+      "message": "Should only be one ticket, which will be printed. The ticket URL will be added as metadata to the instance. Other tickets (if exist) should be merged into this one.",
+      "parentUuid": "bad4c104_725559c5",
+      "range": {
+        "startLine": 78,
+        "startChar": 6,
+        "endLine": 78,
+        "endChar": 54
+      },
+      "revId": "2716359eb9354268c9be3c82f09c895890b45b12",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_5248552d",
         "filename": "hivemind-security.rst",
         "patchSetId": 5
@@ -82,6 +154,30 @@
       "writtenOn": "2016-05-03T23:56:56Z",
       "side": 1,
       "message": "Do we also need a shelve/snapshot/archive and delete instance option? That would remove the instance but still allow for forensics and similar.",
+      "range": {
+        "startLine": 82,
+        "startChar": 0,
+        "endLine": 83,
+        "endChar": 47
+      },
+      "revId": "2716359eb9354268c9be3c82f09c895890b45b12",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_a8821450",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-09T05:30:57Z",
+      "side": 1,
+      "message": "Maybe for stage 2",
+      "parentUuid": "bad4c104_5248552d",
       "range": {
         "startLine": 82,
         "startChar": 0,
