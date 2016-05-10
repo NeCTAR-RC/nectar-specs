@@ -2,6 +2,75 @@
   "comments": [
     {
       "key": {
+        "uuid": "bad4c104_28b0c48a",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000082
+      },
+      "writtenOn": "2016-05-10T07:07:45Z",
+      "side": 1,
+      "message": "Should be pause instead of stop (so that we can back out without data-loss if the security report turns out to be erroneous)?",
+      "range": {
+        "startLine": 26,
+        "startChar": 2,
+        "endLine": 27,
+        "endChar": 16
+      },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_68aacc1a",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1000082
+      },
+      "writtenOn": "2016-05-10T07:07:45Z",
+      "side": 1,
+      "message": "pause?",
+      "range": {
+        "startLine": 41,
+        "startChar": 9,
+        "endLine": 41,
+        "endChar": 14
+      },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_88a7104f",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1000082
+      },
+      "writtenOn": "2016-05-10T07:07:45Z",
+      "side": 1,
+      "message": "What happens next? I guess either the instance is cleaned up, so unlocked and then deleted (possibly via a tier2 Node support person who extracts VM disks for the user), or it turns out the incident was a false alarm and the instance is unlocked, unpaused, etc? Do we want to handle that step here too or leave it manual for now?",
+      "range": {
+        "startLine": 49,
+        "startChar": 27,
+        "endLine": 49,
+        "endChar": 27
+      },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_e8f33c08",
         "filename": "hivemind-security.rst",
         "patchSetId": 6
@@ -18,6 +87,53 @@
         "startChar": 23,
         "endLine": 66,
         "endChar": 37
+      },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_c86838f8",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1000082
+      },
+      "writtenOn": "2016-05-10T07:07:45Z",
+      "side": 1,
+      "message": "How about \"security.takedown\" ?",
+      "parentUuid": "bad4c104_e8f33c08",
+      "range": {
+        "startLine": 66,
+        "startChar": 23,
+        "endLine": 66,
+        "endChar": 37
+      },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_a863f418",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 1000082
+      },
+      "writtenOn": "2016-05-10T07:07:45Z",
+      "side": 1,
+      "message": "this sounds useful as a general hivemind command, not just a security thing. e.g., i have a shell script (deets.sh) that takes an ip address or uuid and prints the server details, including resolving user_id, project_id and security groups into useful values - we probably want this to do the same or similar",
+      "range": {
+        "startLine": 77,
+        "startChar": 3,
+        "endLine": 77,
+        "endChar": 38
       },
       "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
