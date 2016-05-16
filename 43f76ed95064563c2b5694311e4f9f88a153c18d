@@ -66,6 +66,24 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_57276064",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-16T22:05:17Z",
+      "side": 1,
+      "message": "Good pickup. Now fixed.",
+      "parentUuid": "bad4c104_a85e94e7",
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_68aacc1a",
         "filename": "hivemind-security.rst",
         "patchSetId": 6
@@ -77,6 +95,30 @@
       "writtenOn": "2016-05-10T07:07:45Z",
       "side": 1,
       "message": "pause?",
+      "range": {
+        "startLine": 41,
+        "startChar": 9,
+        "endLine": 41,
+        "endChar": 14
+      },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_772c6448",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-16T22:05:17Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "bad4c104_68aacc1a",
       "range": {
         "startLine": 41,
         "startChar": 9,
@@ -147,6 +189,24 @@
       "writtenOn": "2016-05-16T06:19:15Z",
       "side": 1,
       "message": "Is this true? Is this section necessary?",
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_d70370b6",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-16T22:05:17Z",
+      "side": 1,
+      "message": "Probably not. Will remove",
+      "parentUuid": "bad4c104_085ea0e6",
       "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
       "unresolved": false
@@ -242,6 +302,24 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_f70074ac",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-16T22:05:17Z",
+      "side": 1,
+      "message": "handle_instance it is",
+      "parentUuid": "bad4c104_e8589cfc",
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_a863f418",
         "filename": "hivemind-security.rst",
         "patchSetId": 6
@@ -265,6 +343,30 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_172dd846",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-16T22:05:17Z",
+      "side": 1,
+      "message": "Would love a copy of your script. So far I\u0027ve grabbed the code to perform the classic \u0027nova show \u003cid\u003e\u0027 but looking to extend that. Can be moved or extended to be more generic later",
+      "parentUuid": "bad4c104_a863f418",
+      "range": {
+        "startLine": 77,
+        "startChar": 3,
+        "endLine": 77,
+        "endChar": 38
+      },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_486fc892",
         "filename": "hivemind-security.rst",
         "patchSetId": 6
@@ -276,6 +378,24 @@
       "writtenOn": "2016-05-16T06:19:15Z",
       "side": 1,
       "message": "Do we need to have some state  / log in our db system for these, or will we rely solely on the freshdesk ticket and instance metadata in our nova db?",
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_3732dca7",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-16T22:05:17Z",
+      "side": 1,
+      "message": "Was going to try and get away with just metadata and a ticket",
+      "parentUuid": "bad4c104_486fc892",
       "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
       "unresolved": false
