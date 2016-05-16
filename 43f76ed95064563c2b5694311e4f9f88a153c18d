@@ -49,6 +49,23 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_a85e94e7",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-05-16T06:19:15Z",
+      "side": 1,
+      "message": "compromised",
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_68aacc1a",
         "filename": "hivemind-security.rst",
         "patchSetId": 6
@@ -113,6 +130,23 @@
         "endLine": 49,
         "endChar": 27
       },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_085ea0e6",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-05-16T06:19:15Z",
+      "side": 1,
+      "message": "Is this true? Is this section necessary?",
       "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
       "unresolved": false
@@ -190,6 +224,24 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_e8589cfc",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-05-16T06:19:15Z",
+      "side": 1,
+      "message": "+1 I like handle_instance.",
+      "parentUuid": "bad4c104_e8f33c08",
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_a863f418",
         "filename": "hivemind-security.rst",
         "patchSetId": 6
@@ -207,6 +259,23 @@
         "endLine": 77,
         "endChar": 38
       },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_486fc892",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-05-16T06:19:15Z",
+      "side": 1,
+      "message": "Do we need to have some state  / log in our db system for these, or will we rely solely on the freshdesk ticket and instance metadata in our nova db?",
       "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
       "unresolved": false
