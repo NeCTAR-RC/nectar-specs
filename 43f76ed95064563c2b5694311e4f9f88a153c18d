@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_34c01a50",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-16T05:51:36Z",
+      "side": 1,
+      "message": "Yeah, pause is a better idea until analysis is complete",
+      "parentUuid": "bad4c104_28b0c48a",
+      "range": {
+        "startLine": 26,
+        "startChar": 2,
+        "endLine": 27,
+        "endChar": 16
+      },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_68aacc1a",
         "filename": "hivemind-security.rst",
         "patchSetId": 6
@@ -59,6 +83,30 @@
       "writtenOn": "2016-05-10T07:07:45Z",
       "side": 1,
       "message": "What happens next? I guess either the instance is cleaned up, so unlocked and then deleted (possibly via a tier2 Node support person who extracts VM disks for the user), or it turns out the incident was a false alarm and the instance is unlocked, unpaused, etc? Do we want to handle that step here too or leave it manual for now?",
+      "range": {
+        "startLine": 49,
+        "startChar": 27,
+        "endLine": 49,
+        "endChar": 27
+      },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_54b59eec",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2016-05-16T05:51:36Z",
+      "side": 1,
+      "message": "I think manual for now. This spec is getting complicated, so would be nice to get something out the door that works, then iterate",
+      "parentUuid": "bad4c104_88a7104f",
       "range": {
         "startLine": 49,
         "startChar": 27,
