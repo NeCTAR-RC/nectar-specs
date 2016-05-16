@@ -118,6 +118,30 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_084a2080",
+        "filename": "hivemind-security.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2016-05-16T04:03:33Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "bad4c104_c86838f8",
+      "range": {
+        "startLine": 66,
+        "startChar": 23,
+        "endLine": 66,
+        "endChar": 37
+      },
+      "revId": "43f76ed95064563c2b5694311e4f9f88a153c18d",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_a863f418",
         "filename": "hivemind-security.rst",
         "patchSetId": 6
