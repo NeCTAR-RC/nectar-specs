@@ -2,6 +2,40 @@
   "comments": [
     {
       "key": {
+        "uuid": "bad4c104_1aa09442",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "Do we have a proposed retention period?",
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_faccd037",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "Will this be based on a timer?\nWill there be any automated retries in the case of failure?",
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_3a88f81e",
         "filename": "tempest-stats.rst",
         "patchSetId": 2
@@ -19,6 +53,23 @@
         "endLine": 48,
         "endChar": 80
       },
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_9ae584aa",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "Has anyone else written any examples of what you get out of junit, how and how to input it to the backend?",
       "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
       "unresolved": false
@@ -48,6 +99,23 @@
     },
     {
       "key": {
+        "uuid": "bad4c104_5adbfcec",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "Unless we are going to use both, we should decide before the spec if finalised.",
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bad4c104_7a79a02e",
         "filename": "tempest-stats.rst",
         "patchSetId": 2
@@ -65,6 +133,159 @@
         "endLine": 50,
         "endChar": 28
       },
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_7ad8c0ef",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "How will this work? Will the monitoring be automated?\nDo you have any proposed thresholds?",
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_faf3f070",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "What about the web interfaces thereto? Who should have access? How will we maintain access control lists?",
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_3aee3889",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "Will operators outside of core services need to know about these changes?",
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_5a021c3f",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "triggered *by* Jenkins",
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_7affe034",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "Wil this script be a step  of the Jenkins job that runs after the Tempest run?",
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_fa9a1013",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "Is our existing graphite DB adequate size and memory if we choose to use it?\nIf we go with influxdb, will we need to build a cluster as part of this work? Where will\nit run? Do we need to estimate size?",
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_baf9684f",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "Would this be done using  a  Nagios  passive check?",
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_da954ce5",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "How much data will this produce, and where will it be stored?",
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_3aa55853",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-06-07T06:02:35Z",
+      "side": 1,
+      "message": "https://influxdata.com/time-series-platform/influxdb/\nhttp://docs.openstack.org/developer/tempest/configuration.html",
       "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
       "unresolved": false
