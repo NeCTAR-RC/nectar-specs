@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bad4c104_3a88f81e",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2016-06-07T05:15:02Z",
+      "side": 1,
+      "message": "so plan is to use junit?",
+      "range": {
+        "startLine": 48,
+        "startChar": 45,
+        "endLine": 48,
+        "endChar": 80
+      },
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_5a7cdc20",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2016-06-07T05:15:02Z",
+      "side": 1,
+      "message": "so what should we use here?",
+      "range": {
+        "startLine": 49,
+        "startChar": 41,
+        "endLine": 49,
+        "endChar": 82
+      },
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bad4c104_7a79a02e",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2016-06-07T05:15:02Z",
+      "side": 1,
+      "message": "Do we use the https://influxdata.com/ suite for collecting and trend alerting etc?",
+      "range": {
+        "startLine": 50,
+        "startChar": 2,
+        "endLine": 50,
+        "endChar": 28
+      },
+      "revId": "9b739407378039a88e3d11f349a661b9ae95d0bb",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
