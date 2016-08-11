@@ -1,0 +1,188 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7adec928_e8c0bc7e",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-08-11T06:55:14Z",
+      "side": 1,
+      "message": "Not sure this is true - we\u0027re doubling the number of places an attacker can hit to get the data, and they only need one of them to be vulnerable to get access to it. The most you could say is that we\u0027re not /reducing/ the security of the primary data, and this is arguable since the API server is internet-accessible (though firewalled off to only permit access via the API server port).",
+      "range": {
+        "startLine": 27,
+        "startChar": 0,
+        "endLine": 27,
+        "endChar": 74
+      },
+      "revId": "1bc06c8d25d2116a7a84eb845175f97504ea8e2c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_a846b421",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-08-11T06:55:14Z",
+      "side": 1,
+      "message": "Should be rcallocation_allocationrequest",
+      "range": {
+        "startLine": 46,
+        "startChar": 7,
+        "endLine": 46,
+        "endChar": 30
+      },
+      "revId": "1bc06c8d25d2116a7a84eb845175f97504ea8e2c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_0855e8c5",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-08-11T06:55:14Z",
+      "side": 1,
+      "message": "I\u0027d suggest asking around at other nodes and seeing what else they might be interested in using for reporting - this is pretty sparse.",
+      "range": {
+        "startLine": 47,
+        "startChar": 0,
+        "endLine": 47,
+        "endChar": 17
+      },
+      "revId": "1bc06c8d25d2116a7a84eb845175f97504ea8e2c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_c84a2027",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-08-11T06:55:14Z",
+      "side": 1,
+      "message": "See above.",
+      "range": {
+        "startLine": 54,
+        "startChar": 14,
+        "endLine": 54,
+        "endChar": 37
+      },
+      "revId": "1bc06c8d25d2116a7a84eb845175f97504ea8e2c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_6863ccb1",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-08-11T06:55:14Z",
+      "side": 1,
+      "message": "You could restrict that to just the dashboard and reporting databases, since the reporting database already collects the other stuff you need.",
+      "range": {
+        "startLine": 64,
+        "startChar": 67,
+        "endLine": 65,
+        "endChar": 10
+      },
+      "revId": "1bc06c8d25d2116a7a84eb845175f97504ea8e2c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_885818fc",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-08-11T06:55:14Z",
+      "side": 1,
+      "message": "See my comment above.",
+      "range": {
+        "startLine": 75,
+        "startChar": 0,
+        "endLine": 76,
+        "endChar": 65
+      },
+      "revId": "1bc06c8d25d2116a7a84eb845175f97504ea8e2c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_28bb840f",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-08-11T06:55:14Z",
+      "side": 1,
+      "message": "The normal approach for reporting schema changes is to simply recreate all tables in the database. The contents are all entirely regenerable from the source data, making a full recreation much simpler than attempting to patch the schema.",
+      "range": {
+        "startLine": 85,
+        "startChar": 65,
+        "endLine": 86,
+        "endChar": 74
+      },
+      "revId": "1bc06c8d25d2116a7a84eb845175f97504ea8e2c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_a85dd4eb",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-08-11T06:55:14Z",
+      "side": 1,
+      "message": "I don\u0027t think we can support this change if it /can\u0027t/ fully populate the new table without help - nothing else the pollster does needs manual intervention once the schema is in place.",
+      "range": {
+        "startLine": 89,
+        "startChar": 20,
+        "endLine": 90,
+        "endChar": 70
+      },
+      "revId": "1bc06c8d25d2116a7a84eb845175f97504ea8e2c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
