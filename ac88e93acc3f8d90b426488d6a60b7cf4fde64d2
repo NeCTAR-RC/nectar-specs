@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7adec928_68bbccc4",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-08-15T00:27:04Z",
+      "side": 1,
+      "message": "A suggestion:\n\n\n Allocation data is the field of research, principal researcher, and .... ..... that is provided by the user in the rcallocations application when they apply for resources o the research cloud.",
+      "revId": "ac88e93acc3f8d90b426488d6a60b7cf4fde64d2",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_08ade888",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-08-15T00:27:04Z",
+      "side": 1,
+      "message": "Some brief deployment instructions or checklist would be helpful.",
+      "revId": "ac88e93acc3f8d90b426488d6a60b7cf4fde64d2",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_28aaa470",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-08-15T00:27:04Z",
+      "side": 1,
+      "message": "Some brief deployment instructions or checklist would be helpful.",
+      "revId": "ac88e93acc3f8d90b426488d6a60b7cf4fde64d2",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_48b610de",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-08-15T00:27:04Z",
+      "side": 1,
+      "message": "Where is the reporting tool documented?\nI\u0027ve had a look on our internal wiki and not found it.\n\nAlso I take it you don\u0027t have a formal requirements doc from\nto refer to?",
+      "revId": "ac88e93acc3f8d90b426488d6a60b7cf4fde64d2",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
