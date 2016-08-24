@@ -1,0 +1,101 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7adec928_af5cf626",
+        "filename": "same-different-host-filters.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-08-24T02:06:27Z",
+      "side": 1,
+      "message": "ws",
+      "revId": "a115d94e97932ebe7360d99a997b124fa9ce782c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_4f74529c",
+        "filename": "same-different-host-filters.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-08-24T02:06:27Z",
+      "side": 1,
+      "message": "This *will* protect",
+      "revId": "a115d94e97932ebe7360d99a997b124fa9ce782c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_cf406238",
+        "filename": "same-different-host-filters.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-08-24T02:06:27Z",
+      "side": 1,
+      "message": "scenario",
+      "revId": "a115d94e97932ebe7360d99a997b124fa9ce782c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_ef3d1ebd",
+        "filename": "same-different-host-filters.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-08-24T02:06:27Z",
+      "side": 1,
+      "message": "Node operators will need to execute the change.",
+      "range": {
+        "startLine": 74,
+        "startChar": 0,
+        "endLine": 74,
+        "endChar": 4
+      },
+      "revId": "a115d94e97932ebe7360d99a997b124fa9ce782c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_2f48e65a",
+        "filename": "same-different-host-filters.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1000105
+      },
+      "writtenOn": "2016-08-24T02:06:27Z",
+      "side": 1,
+      "message": "A change item will be prepared and linked to at https://wiki.rc.nectar.org.au/wiki/Changes",
+      "range": {
+        "startLine": 108,
+        "startChar": 0,
+        "endLine": 108,
+        "endChar": 41
+      },
+      "revId": "a115d94e97932ebe7360d99a997b124fa9ce782c",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
