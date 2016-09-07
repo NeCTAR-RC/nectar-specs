@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7adec928_d2464623",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000143
+      },
+      "writtenOn": "2016-09-07T00:43:51Z",
+      "side": 1,
+      "message": "I will add a link to a descriptive page on the help site.",
+      "parentUuid": "7adec928_68bbccc4",
+      "revId": "ac88e93acc3f8d90b426488d6a60b7cf4fde64d2",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7adec928_08ade888",
         "filename": "reporting-pollster-allocation-table.rst",
         "patchSetId": 4
@@ -30,6 +48,24 @@
       "writtenOn": "2016-08-15T00:27:04Z",
       "side": 1,
       "message": "Some brief deployment instructions or checklist would be helpful.",
+      "revId": "ac88e93acc3f8d90b426488d6a60b7cf4fde64d2",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_f24a6226",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 1000143
+      },
+      "writtenOn": "2016-09-07T00:43:51Z",
+      "side": 1,
+      "message": "I will add a link to the new reporting page.",
+      "parentUuid": "7adec928_08ade888",
       "revId": "ac88e93acc3f8d90b426488d6a60b7cf4fde64d2",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "7adec928_1248ae2c",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 1000143
+      },
+      "writtenOn": "2016-09-07T00:43:51Z",
+      "side": 1,
+      "message": "As above",
+      "parentUuid": "7adec928_28aaa470",
+      "revId": "ac88e93acc3f8d90b426488d6a60b7cf4fde64d2",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7adec928_48b610de",
         "filename": "reporting-pollster-allocation-table.rst",
         "patchSetId": 4
@@ -64,6 +118,24 @@
       "writtenOn": "2016-08-15T00:27:04Z",
       "side": 1,
       "message": "Where is the reporting tool documented?\nI\u0027ve had a look on our internal wiki and not found it.\n\nAlso I take it you don\u0027t have a formal requirements doc from\nto refer to?",
+      "revId": "ac88e93acc3f8d90b426488d6a60b7cf4fde64d2",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_3255aac6",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 1000143
+      },
+      "writtenOn": "2016-09-07T00:43:51Z",
+      "side": 1,
+      "message": "It wasn\u0027t: but now is. I will add links to both.",
+      "parentUuid": "7adec928_48b610de",
       "revId": "ac88e93acc3f8d90b426488d6a60b7cf4fde64d2",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
       "unresolved": false
