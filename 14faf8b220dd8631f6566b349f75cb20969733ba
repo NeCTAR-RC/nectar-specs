@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7adec928_724ad284",
+        "filename": "tempest-stats.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2016-09-07T22:56:14Z",
+      "side": 1,
+      "message": "What do you mean here? How will nagios be involved for monitoring for say if an instance boot fails? Or is this unrelated to those checks?",
+      "range": {
+        "startLine": 118,
+        "startChar": 0,
+        "endLine": 118,
+        "endChar": 84
+      },
+      "revId": "14faf8b220dd8631f6566b349f75cb20969733ba",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
