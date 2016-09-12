@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7adec928_e0f7e88a",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-09-12T05:11:48Z",
+      "side": 1,
+      "message": "This needs to be updated to include the full set of data (approver, FoRs, allocation home, etc).",
+      "range": {
+        "startLine": 46,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 57
+      },
+      "revId": "ba5f3813b66f0b067ad92b83ff08050737c213ce",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_00f5b482",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-09-12T05:11:48Z",
+      "side": 1,
+      "message": "This needs to be updated to reflect the changes in allocation identification - in particular, the fact that the allocation id is the PK.",
+      "range": {
+        "startLine": 52,
+        "startChar": 0,
+        "endLine": 55,
+        "endChar": 35
+      },
+      "revId": "ba5f3813b66f0b067ad92b83ff08050737c213ce",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_6012f8b5",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-09-12T05:11:48Z",
+      "side": 1,
+      "message": "it might be worth mentioning related future work, like API server changes and/or the python client module. In particular because some of those might make direct database access unnecessary.",
+      "range": {
+        "startLine": 60,
+        "startChar": 0,
+        "endLine": 60,
+        "endChar": 12
+      },
+      "revId": "ba5f3813b66f0b067ad92b83ff08050737c213ce",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_40efbcb0",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-09-12T05:11:48Z",
+      "side": 1,
+      "message": "Database updates are part of the deployment phase.",
+      "range": {
+        "startLine": 118,
+        "startChar": 2,
+        "endLine": 118,
+        "endChar": 18
+      },
+      "revId": "ba5f3813b66f0b067ad92b83ff08050737c213ce",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_20f2b09a",
+        "filename": "reporting-pollster-allocation-table.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 1000129
+      },
+      "writtenOn": "2016-09-12T05:11:48Z",
+      "side": 1,
+      "message": "Also mention updating puppet to support the new config",
+      "range": {
+        "startLine": 119,
+        "startChar": 0,
+        "endLine": 119,
+        "endChar": 40
+      },
+      "revId": "ba5f3813b66f0b067ad92b83ff08050737c213ce",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": false
+    }
+  ]
+}
